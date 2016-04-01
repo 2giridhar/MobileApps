@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Descriptions</string>
+    <string name="back_to_list">BackToList</string>
+    <string name="add_to_list">Add new movie</string>
+    <string name="add">Add Movie</string>
+    <string name="delete">Delete Movie</string>
+</resources>
